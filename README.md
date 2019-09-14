@@ -7,7 +7,6 @@ This script can be used as mini calculator command.
 # Built using:
 * bash
 * shell scripting
-* bc command
 
 # Clone the repository:
 > git clone https://github.com/neha629/Calculator_Shell_Script.git
