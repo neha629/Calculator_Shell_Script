@@ -1,8 +1,6 @@
 # Calculator-Shell-Script
 
-Simple Shell Script to make the use of bc command easy.
-
-This script can be used as mini calculator command.
+Simple CLI Calculator .
 
 # Built using:
 * bash
